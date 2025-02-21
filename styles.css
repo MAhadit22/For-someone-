@@ -58,7 +58,7 @@ body {
 }
 
 .letter {
-    font-size: 1.1em; /* Smaller font size */
+    font-size: 1.0em; /* Smaller font size */
     line-height: 1.8;
     margin-bottom: 20px;
     color: #555;
